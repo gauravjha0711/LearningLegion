@@ -20,7 +20,7 @@ function loadScript(src) {
             resolve(false);
         }
         document.body.appendChild(script);
-    })
+    })  
 }
 
 
